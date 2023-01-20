@@ -1,3 +1,3 @@
 ## JavaScript => First Exercise
 
-I prepared a page with current time and date information thanks to patika.dev
+Thanks to Patika.dev, I created a page with current time and date information using JavaScript.
